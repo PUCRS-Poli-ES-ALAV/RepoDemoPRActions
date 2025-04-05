@@ -1,3 +1,7 @@
+
+Vamos usar este repo para fazer um demo de Rebase e Pull Request
+
+
 # Enunciado para exercício sobre Programação Dinâmica
 1. Dadas as três versões de implementação de Fibonacci abaixo:
     
